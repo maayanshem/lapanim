@@ -1,0 +1,2 @@
+# lapanim
+rekognition for bartenders
