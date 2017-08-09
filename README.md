@@ -1,2 +1,2 @@
 # lapanim
-rekognition for bartenders
+rekognition for fartenders
